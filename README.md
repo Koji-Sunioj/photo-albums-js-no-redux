@@ -1,3 +1,7 @@
+# Introduction
+
+This is the original (quick and dirty) version of the web app using AWS microservices, such as Cognito, Lambda, Api Gateway, DynamoDB and S3 bucket. It does not use Redux or Typescript.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
